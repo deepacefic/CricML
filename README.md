@@ -1,6 +1,6 @@
 ## Data-Driven Modeling for Winner Prediction in a Cricket Match
 
-[GitHub Project Page](https://github.com/deepacefic/Winner-Prediction-Cricket-Match/)
+[GitHub Project Page](https://deepacefic.github.io/Winner-Prediction-Cricket-Match/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
