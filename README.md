@@ -15,10 +15,10 @@ CricSheet: https://cricsheet.org/
 
 | Classifier       | Accuracy Team Win(%)  | Accuracy Team Win while chasing(%)        
 | ------------- |:-------------:|:--------------:|
-|   Logistic Regression    | 55.87 |  |52.13|
-| Decision Trees      | 53.23|   |51.81|
-| support vector machine | 73.77| |61.63| 
-| 3-hidden layer Neural Network |67.12| |59.22|
+|   Logistic Regression    | 55.87 | 52.13|
+| Decision Trees      | 53.23| 51.81|
+| support vector machine | 73.77| 61.63| 
+| 3-hidden layer Neural Network |67.12| 59.22|
 
 ### Support or Contact
 
