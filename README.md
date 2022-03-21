@@ -21,7 +21,9 @@ CricSheet: https://cricsheet.org/
 | 3-hidden layer Neural Network |67.12| 59.22|
 
 **Reference Papers**
+
 [CricAI: A classification based tool to predict the outcome in ODI cricket](https://ieeexplore.ieee.org/abstract/document/5715668)
+
 [Auto-play: A Data Mining Approach to ODI Cricket Simulation and Prediction](https://epubs.siam.org/doi/abs/10.1137/1.9781611973440.121)
 
 
