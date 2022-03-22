@@ -10,11 +10,11 @@ CricSheet: https://cricsheet.org/
 
 ## Data analysis
 
-![1](bs1.png)
+![1](bs1.PNG)
 
-![1](bs2.png)
+![1](bs2.PNG)
 
-![1](bs3.png)
+![1](BS3.PNG)
 ## Results Table
 
 | Classifier       | Accuracy Team Win(%)  | Accuracy Team Win while chasing(%)        
