@@ -8,7 +8,8 @@ CricSheet: https://cricsheet.org/
 We wanted to leverage the fact that this data set gives us ball to ball information of every match. This was a crucial information, with which multiple predictions and conclusions were possible.
 As we had data about the team matches played, it was possible to predict the winner based on past matches. Many features given in the data set like venue, bowler to batsman ball by ball performance, can be used to somewhat predict the winner of the match. 
 Thus, we could predict the winner of the next match International ODI or T20 match based on the players performance in past matches.
-## Task
+
+## Tasks
 
 1. Predict which of the given two teams would win
 
@@ -18,12 +19,19 @@ For detailed insights about methodolgy used for acchieving aforementioned tasks,
 
 ## Data analysis
 
+1. **Plot of Total runs per match over the years**
+
 ![1](bs1.PNG)
+
+2. **Win-los frequency analysis of different teams**
 
 ![1](bs2.PNG)
 
+3. **Type of run scored in diffrent matches**
+ 
 ![1](BS3.PNG)
-## Results Table
+
+## Result Table
 
 | Classifier       | Accuracy Team Win(%)  | Accuracy Team Win while chasing(%)        
 | ------------- |:-------------:|:--------------:|
