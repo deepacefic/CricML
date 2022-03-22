@@ -4,8 +4,13 @@
 We wanted to leverage the fact that this data set gives us ball to ball information of every match. This was a crucial information, with which multiple predictions and conclusions were possible.
 As we had data about the team matches played, it was possible to predict the winner based on past matches. Many features given in the data set like venue, bowler to batsman ball by ball performance, can be used to somewhat predict the winner of the match. 
 Thus, we could predict the winner of the next match International ODI or T20 match based on the players performance in past matches.
-## Methodology
+## Task
 
+1. Predict which of the given two teams would win
+
+3. Predicting if a given team could win while chasing
+
+For detailed insights about methodolgy used for acchieving aforementioned tasks, please find the [Report](https://github.com/deepacefic/CricML/blob/main/DeepPooja(17074)-Project-Report%20(1).pdf)
 ## Data source
 
 CricSheet: https://cricsheet.org/
