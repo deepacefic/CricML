@@ -1,7 +1,5 @@
 ## Data-Driven Modeling for Winner Prediction in a Cricket Match
 
-GitHub Project Page: https://deepacefic.github.io/CricML/
-
 ## Data source
 
 CricSheet: https://cricsheet.org/
@@ -10,7 +8,13 @@ CricSheet: https://cricsheet.org/
 
 ## Methodology
 
+## Data analysis
 
+![1](bs1.png)
+
+![1](bs2.png)
+
+![1](bs3.png)
 ## Results Table
 
 | Classifier       | Accuracy Team Win(%)  | Accuracy Team Win while chasing(%)        
