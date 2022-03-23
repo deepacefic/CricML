@@ -49,6 +49,5 @@ For detailed insights about methodolgy used for acchieving aforementioned tasks,
 
 ### Support or Contact
 
-Please write us an [Email](deep17@iiserb.ac.in) if you have questions.
+Please write me an [Email](deep17@iiserb.ac.in) for any questions, errors/bugs.
 
-We are glad to get any comments and error reports.
